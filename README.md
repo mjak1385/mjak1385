@@ -15,8 +15,8 @@ I’m a first-year Software Engineering student at the University of Ottawa, pas
 
 📫 How to reach me:  
 - Email: magha088@uottawa.ca  
-- LinkedIn: My LinkedIn  
-- Discord: My Discord  
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mohammadjavad-aghaeipour-kalyani-635a4b313)
+- Discord: [My Discord](https://discordapp.com/users/787104341542567967)  
 
 🛠️ Languages and Tools:  
 Here are some of the technologies and tools I’m familiar with or currently exploring:
